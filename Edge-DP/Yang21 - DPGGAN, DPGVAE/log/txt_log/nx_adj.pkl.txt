@@ -1,0 +1,490 @@
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+Epoch@100: 1177.000 1.000 51.388 3434.200 88234.000 3434.200 392394.800 0.684 0.889 2.482
+Run out of DP budget at epoch@12.
+=========================
+
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+Epoch@100: 1177.000 1.000 51.388 3434.200 88234.000 3434.200 392394.800 0.684 0.889 2.482
+Run out of DP budget at epoch@12.
+=========================
+
+Epoch@final: 1177.000 1.000 51.388 3434.200 88234.000 3434.200 392394.800 0.684 0.889 2.482
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+Epoch@100: 1381.200 1.000 48.592 3632.800 88234.000 3632.800 386376.400 0.685 0.886 2.577
+Run out of DP budget at epoch@77.
+=========================
+
+Epoch@final: 1381.200 1.000 48.592 3632.800 88234.000 3632.800 386376.400 0.685 0.886 2.577
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+Epoch@100: 964.400 1.000 46.747 3775.000 88234.000 3775.000 286616.400 0.642 0.906 2.549
+Run out of DP budget at epoch@77.
+=========================
+
+Epoch@final: 964.400 1.000 46.747 3775.000 88234.000 3775.000 286616.400 0.642 0.906 2.549
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+Epoch@100: 1287.800 1.000 49.661 3554.000 88234.000 3554.000 233498.600 0.687 0.888 2.517
+Run out of DP budget at epoch@77.
+=========================
+
+Epoch@final: 1287.800 1.000 49.661 3554.000 88234.000 3554.000 233498.600 0.687 0.888 2.517
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+Epoch@100: 1287.800 1.000 49.661 3554.000 88234.000 3554.000 233498.600 0.687 0.888 2.517
+Run out of DP budget at epoch@77.
+=========================
+
+Epoch@final: 1287.800 1.000 49.661 3554.000 88234.000 3554.000 233498.600 0.687 0.888 2.517
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+Epoch@100: 1071.200 1.000 52.215 3379.800 88234.000 3379.800 534516.200 0.676 0.894 2.529
+Run out of DP budget at epoch@0.
+=========================
+
+Epoch@final: 1071.200 1.000 52.215 3379.800 88234.000 3379.800 534516.200 0.676 0.894 2.529
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+Epoch@100: 1359.400 1.000 51.744 3410.800 88234.000 3410.800 610103.400 0.692 0.885 2.482
+Run out of DP budget at epoch@0.
+=========================
+
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+Epoch@100: 1359.400 1.000 51.744 3410.800 88234.000 3410.800 610103.400 0.692 0.885 2.482
+Run out of DP budget at epoch@0.
+=========================
+
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+Epoch@100: 1490.400 1.000 50.485 3495.800 88234.000 3495.800 581895.600 0.687 0.887 2.467
+Run out of DP budget at epoch@1.
+=========================
+
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+Epoch@100: 1345.400 1.000 50.596 3488.200 88234.000 3488.200 555988.200 0.687 0.887 2.481
+Run out of DP budget at epoch@2.
+=========================
+
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+Epoch@100: 1157.200 1.000 48.979 3603.000 88234.000 3603.000 377689.600 0.677 0.892 2.527
+Run out of DP budget at epoch@4.
+=========================
+
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+Epoch@100: 1293.200 1.000 51.639 3418.000 88234.000 3418.000 760851.600 0.697 0.884 2.494
+Run out of DP budget at epoch@0.
+=========================
+
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+Epoch@100: 1342.800 1.000 48.088 3669.800 88234.000 3669.800 258798.200 0.667 0.895 2.535
+Run out of DP budget at epoch@8.
+=========================
+
+Epoch@100: 1293.200 1.000 51.639 3418.000 88234.000 3418.000 760851.600 0.697 0.884 2.494
+Run out of DP budget at epoch@0.
+=========================
+
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+Epoch@100: 1142.400 1.000 51.716 3412.800 88234.000 3412.800 765898.600 0.700 0.883 2.509
+Run out of DP budget at epoch@1.
+=========================
+
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+Epoch@100: 1176.200 1.000 48.835 3614.000 88234.000 3614.000 309495.600 0.667 0.896 2.528
+Run out of DP budget at epoch@18.
+=========================
+
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+Epoch@100: 1457.400 1.000 51.745 3410.600 88234.000 3410.600 759642.400 0.700 0.882 2.469
+Run out of DP budget at epoch@2.
+=========================
+
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+Epoch@100: 1097.800 1.000 50.010 3529.400 88234.000 3529.400 346075.600 0.675 0.893 2.535
+Run out of DP budget at epoch@36.
+=========================
+
+Epoch@100: 1272.000 1.000 50.311 3508.000 88234.000 3508.000 645052.400 0.696 0.884 2.498
+Run out of DP budget at epoch@4.
+=========================
+
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+Epoch@100: 1201.800 1.000 49.843 3540.600 88234.000 3540.600 500593.600 0.688 0.889 2.539
+Run out of DP budget at epoch@8.
+=========================
+
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+Epoch@100: 1416.400 1.000 49.859 3540.400 88234.000 3540.400 433720.800 0.684 0.891 2.537
+Run out of DP budget at epoch@64.
+=========================
+
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+Epoch@100: 1050.600 1.000 47.305 3730.600 88234.000 3730.600 215007.800 0.654 0.901 2.576
+Run out of DP budget at epoch@18.
+=========================
+
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+Epoch@100: 1111.800 1.000 48.260 3657.200 88234.000 3657.200 169660.800 0.659 0.900 2.594
+Run out of DP budget at epoch@36.
+=========================
+
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+Epoch@100: 1193.400 1.000 52.440 3365.400 88234.000 3365.400 459868.600 0.674 0.895 2.535
+=========================
+
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+Epoch@100: 1230.400 1.000 49.537 3562.600 88234.000 3562.600 214012.600 0.672 0.895 2.566
+Run out of DP budget at epoch@64.
+=========================
+
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+Epoch@100: 1193.400 1.000 52.440 3365.400 88234.000 3365.400 459868.600 0.674 0.895 2.535
+=========================
+
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+Epoch@100: 1328.200 1.000 49.733 3548.600 88234.000 3548.600 305655.600 0.672 0.895 2.549
+=========================
+
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+Epoch@100: 1193.400 1.000 52.440 3365.400 88234.000 3365.400 459868.600 0.674 0.895 2.535
+=========================
+
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+Epoch@100: 1087.400 1.000 49.014 3600.400 88234.000 3600.400 325595.400 0.641 0.907 2.566
+Run out of DP budget at epoch@0.
+=========================
+
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+Epoch@100: 1328.200 1.000 49.733 3548.600 88234.000 3548.600 305655.600 0.672 0.895 2.549
+=========================
+
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+Epoch@100: 1087.400 1.000 49.014 3600.400 88234.000 3600.400 325595.400 0.641 0.907 2.566
+Run out of DP budget at epoch@0.
+=========================
+
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+Epoch@100: 1006.800 1.000 49.411 3571.600 88234.000 3571.600 316225.600 0.643 0.906 2.569
+Run out of DP budget at epoch@1.
+=========================
+
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+Epoch@100: 950.800 1.000 48.902 3608.800 88234.000 3608.400 318197.400 0.641 0.907 2.576
+Run out of DP budget at epoch@2.
+=========================
+
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+Epoch@100: 1328.200 1.000 49.733 3548.600 88234.000 3548.600 305655.600 0.672 0.895 2.549
+=========================
+
+Epoch@100: 1082.400 1.000 48.682 3625.200 88234.000 3625.200 331373.400 0.642 0.906 2.555
+Run out of DP budget at epoch@4.
+=========================
+
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+Epoch@100: 1047.000 1.000 49.323 3578.000 88234.000 3578.000 333869.200 0.650 0.904 2.569
+Run out of DP budget at epoch@0.
+=========================
+
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+Epoch@100: 1050.000 1.000 48.508 3638.200 88234.000 3638.200 401101.200 0.647 0.905 2.584
+Run out of DP budget at epoch@8.
+=========================
+
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+Epoch@100: 1047.000 1.000 49.323 3578.000 88234.000 3578.000 333869.200 0.650 0.904 2.569
+Run out of DP budget at epoch@0.
+=========================
+
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+Epoch@100: 930.000 1.000 47.287 3732.000 88234.000 3732.000 262906.800 0.627 0.913 2.612
+Run out of DP budget at epoch@18.
+=========================
+
+Epoch@100: 1030.400 1.000 48.575 3633.000 88234.000 3633.000 276890.800 0.650 0.904 2.572
+Run out of DP budget at epoch@1.
+=========================
+
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+Epoch@100: 913.800 1.000 48.293 3654.400 88234.000 3654.400 247508.600 0.645 0.906 2.576
+Run out of DP budget at epoch@2.
+=========================
+
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+Epoch@100: 1120.400 1.000 48.825 3614.400 88234.000 3614.400 359531.200 0.657 0.901 2.552
+Run out of DP budget at epoch@36.
+=========================
+
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+Epoch@100: 968.000 1.000 47.739 3696.800 88234.000 3696.800 218840.800 0.651 0.903 2.564
+Run out of DP budget at epoch@4.
+=========================
+
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+Epoch@100: 1081.600 1.000 47.928 3682.200 88234.000 3682.200 212219.600 0.653 0.903 2.586
+Run out of DP budget at epoch@8.
+=========================
+
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+Epoch@100: 1365.600 1.000 51.571 3422.600 88234.000 3422.600 430624.000 0.676 0.892 2.482
+Run out of DP budget at epoch@64.
+=========================
+
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+Epoch@100: 828.400 1.000 48.315 3652.600 88234.000 3652.600 179720.000 0.650 0.904 2.628
+Run out of DP budget at epoch@18.
+=========================
+
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+Epoch@100: 1256.800 1.000 49.582 3559.400 88234.000 3559.400 412545.600 0.681 0.891 2.527
+Run out of DP budget at epoch@36.
+=========================
+
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+Epoch@100: 1434.000 1.000 51.913 3400.000 88234.000 3400.000 614912.600 0.690 0.886 2.451
+=========================
+
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+Epoch@100: 1304.200 1.000 52.831 3340.800 88234.000 3340.800 597878.400 0.683 0.890 2.481
+Run out of DP budget at epoch@0.
+=========================
+
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+Epoch@100: 1304.200 1.000 52.831 3340.800 88234.000 3340.800 597878.400 0.683 0.890 2.481
+Run out of DP budget at epoch@0.
+=========================
+
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+Epoch@100: 1171.600 1.000 51.705 3413.600 88234.000 3413.600 440797.200 0.692 0.886 2.526
+Run out of DP budget at epoch@64.
+=========================
+
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+Epoch@100: 1434.000 1.000 51.913 3400.000 88234.000 3400.000 614912.600 0.690 0.886 2.451
+=========================
+
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+Epoch@100: 1087.000 1.000 48.637 3628.600 88234.000 3628.600 385680.000 0.674 0.894 2.543
+=========================
+
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+Epoch@100: 1434.000 1.000 51.913 3400.000 88234.000 3400.000 614912.600 0.690 0.886 2.451
+=========================
+
+Epoch@100: 1087.000 1.000 48.637 3628.600 88234.000 3628.600 385680.000 0.674 0.894 2.543
+=========================
+
+d_max d_min d node_num edge_num LCC triangle_count gini rel_edge_distr_entropy cpl
+original_graph: 1045.000 1.000 43.691 4039.000 88234.000 4039.000 1612010.000 0.541 0.939 3.693
+Epoch@100: 1087.000 1.000 48.637 3628.600 88234.000 3628.600 385680.000 0.674 0.894 2.543
+=========================
+

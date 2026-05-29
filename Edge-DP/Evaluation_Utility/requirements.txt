@@ -1,0 +1,14 @@
+numpy
+torch
+networkx
+networkit
+scikit-learn
+scipy
+netmax
+tqdm
+matplotlib
+tabulate
+torch-geometric
+pandas 
+nx-parallel 
+cugraph
