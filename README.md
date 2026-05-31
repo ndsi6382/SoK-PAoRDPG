@@ -1,6 +1,18 @@
 # Artefacts for "SoK: Practical Aspects of Releasing Differentially Private Graphs"
 
-This repository contains the artefacts for "SoK: Practical Aspects of Releasing Differentially Private Graphs" by N. D'Silva, S. Nepal, and S. S. Kanhere (2026). The article was accepted to AsiaCCS '26, and is available [here](https://arxiv.org/abs/2603.18779). 
+This repository contains the artefacts for "SoK: Practical Aspects of Releasing Differentially Private Graphs" by N. D'Silva, S. Nepal, and S. S. Kanhere (2026). The article was accepted to AsiaCCS '26, and is available [here](https://arxiv.org/abs/2603.18779). If you use this repository, please cite the following work:
+
+```
+@misc{dsilva26,
+      title={SoK: Practical Aspects of Releasing Differentially Private Graphs}, 
+      author={Nicholas D'Silva and Surya Nepal and Salil S. Kanhere},
+      year={2026},
+      eprint={2603.18779},
+      archivePrefix={arXiv},
+      primaryClass={cs.CR},
+      url={https://arxiv.org/abs/2603.18779}, 
+}
+```
 
 ## Supplementary Materials
 As mentioned in the article, this repository contains all numerical and tabular results (as `.csv` files), and additional plots (as `.pdf` files) ommitted from the main article. Notably, these plots include CCDFs for the distribution-based metrics and raw measurements plotted against dataset statistics. These materials are available in the subfolders:
