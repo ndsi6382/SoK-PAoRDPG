@@ -14,6 +14,7 @@ This repository contains the artefacts for "SoK: Practical Aspects of Releasing 
 }
 ```
 
+
 ## Supplementary Materials
 As mentioned in the article, this repository contains all numerical and tabular results (as `.csv` files), and additional plots (as `.pdf` files) ommitted from the main article. Notably, these plots include CCDFs for the distribution-based metrics and raw measurements plotted against dataset statistics. These materials are available in the subfolders:
 - Edge-DP (Example Scenario 1):
@@ -24,6 +25,7 @@ As mentioned in the article, this repository contains all numerical and tabular 
 	- `/Node-DP/Evaluation_Attack/`, for evaluating Empirical Privacy (Objective 3)
 - A high-resolution copy of the presented systemisation is also provided in `/Systemisation.pdf`.
 - For further compatibility, Python `pickle` objects of dictionaries of the results and plots are provided within each of the subfolders mentioned above.
+
 
 ## Code
 The `/Data/` folder contains the original datasets, along with code used for preprocessing (in Python 3 and Jupyter Notebooks).
@@ -45,7 +47,6 @@ The exact dependencies vary from method to method, and are provided in further d
 
 Please note, we have reduced the file size of these artefacts with our best efforts and judgement. The artefacts contain all code, data sources, and the generated plots and numerical results. The artefacts do not contain the 5760 generated graphs and other forms of intermediate data, as the file size is infeasibly large for such a repository. Generating the required graphs for measurement and evaluation can be done so by using the provided code, however please note that the file structure has been re-organised for a smoother, more understanable perusal and observation process, rather than execution; some directory commands may need to be changed for execution.
 
----
 
 ## References
 We make use of implementations from the following original sources. All credit goes to the original authors.
