@@ -1,6 +1,6 @@
 # Artefacts for "SoK: Practical Aspects of Releasing Differentially Private Graphs"
 
-This repository contains the artefacts for "SoK: Practical Aspects of Releasing Differentially Private Graphs" by N. D'Silva, S. Nepal, and S. S. Kanhere (2026). The article was accepted to AsiaCCS '26, and is available [here](https://arxiv.org/abs/2603.18779). If you use this repository, please cite the following work:
+This repository contains the artefacts for "SoK: Practical Aspects of Releasing Differentially Private Graphs" by N. D'Silva, S. Nepal, and S. S. Kanhere (2026). The article is available [here](https://arxiv.org/abs/2603.18779). If you use this repository, please cite the following work:
 
 ```
 @inproceedings{10.1145/3779208.3805972,
