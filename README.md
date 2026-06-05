@@ -3,17 +3,23 @@
 This repository contains the artefacts for "SoK: Practical Aspects of Releasing Differentially Private Graphs" by N. D'Silva, S. Nepal, and S. S. Kanhere (2026). The article was accepted to AsiaCCS '26, and is available [here](https://arxiv.org/abs/2603.18779). If you use this repository, please cite the following work:
 
 ```
-@misc{dsilva26,
-      title={SoK: Practical Aspects of Releasing Differentially Private Graphs}, 
-      author={Nicholas D'Silva and Surya Nepal and Salil S. Kanhere},
-      year={2026},
-      eprint={2603.18779},
-      archivePrefix={arXiv},
-      primaryClass={cs.CR},
-      url={https://arxiv.org/abs/2603.18779}, 
+@inproceedings{10.1145/3779208.3805972,
+	author = {D'Silva, Nicholas and Nepal, Surya and Kanhere, Salil S.},
+	title = {SoK: Practical Aspects of Releasing Differentially Private Graphs},
+	year = {2026},
+	isbn = {9798400723568},
+	publisher = {Association for Computing Machinery},
+	address = {New York, NY, USA},
+	url = {https://doi.org/10.1145/3779208.3805972},
+	doi = {10.1145/3779208.3805972},
+	booktitle = {Proceedings of the ACM Asia Conference on Computer and Communications Security},
+	pages = {1799–1815},
+	numpages = {17},
+	keywords = {graph privacy, differential privacy, graph publishing},
+	location = {},
+	series = {ASIA CCS '26}
 }
 ```
-
 
 ## Supplementary Materials
 As mentioned in the article, this repository contains all numerical and tabular results (as `.csv` files), and additional plots (as `.pdf` files) ommitted from the main article. Notably, these plots include CCDFs for the distribution-based metrics and raw measurements plotted against dataset statistics. These materials are available in the subfolders:
