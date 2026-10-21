@@ -1,6 +1,6 @@
 # Artefacts for "SoK: Practical Aspects of Releasing Differentially Private Graphs"
 
-This repository contains the artefacts for "SoK: Practical Aspects of Releasing Differentially Private Graphs" by N. D'Silva, S. Nepal, and S. S. Kanhere (2026). The article is available [here](https://arxiv.org/abs/2603.18779). If you use this repository, please cite the following work:
+This repository contains the artefacts for "SoK: Practical Aspects of Releasing Differentially Private Graphs" by N. D'Silva, S. Nepal, and S. S. Kanhere (2026). The article is available [here](https://arxiv.org/abs/2603.18779). If you use this repository, please cite the following [work](https://doi.org/10.1145/3779208.3805972):
 
 ```
 @inproceedings{10.1145/3779208.3805972,
@@ -22,7 +22,7 @@ This repository contains the artefacts for "SoK: Practical Aspects of Releasing 
 ```
 
 ## Supplementary Materials
-As mentioned in the article, this repository contains all numerical and tabular results (as `.csv` files), and additional plots (as `.pdf` files) ommitted from the main article. Notably, these plots include CCDFs for the distribution-based metrics and raw measurements plotted against dataset statistics. These materials are available in the subfolders:
+As mentioned in the article, this repository contains all numerical and tabular results (as `.csv` files), and additional plots (as `.pdf` files) omitted from the main article. Notably, these plots include CCDFs for the distribution-based metrics and raw measurements plotted against dataset statistics. These materials are available in the subfolders:
 - Edge-DP (Example Scenario 1):
 	- `/Edge-DP/Evaluation_Utility/Results/`, for evaluating Utility (Objective 4)
 	- `/Edge-DP/Evaluation_Attack/`, for evaluating Empirical Privacy (Objective 3)
