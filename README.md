@@ -2,7 +2,7 @@
 
 This repository contains the artefacts for "SoK: Practical Aspects of Releasing Differentially Private Graphs" by Nicholas D'Silva, Surya Nepal, and Salil S. Kanhere (2026). The article is available [here](https://arxiv.org/abs/2603.18779). If you use this repository, please cite the following [work](https://doi.org/10.1145/3779208.3805972):
 
-```
+```bibtex
 @inproceedings{10.1145/3779208.3805972,
 	author = {D'Silva, Nicholas and Nepal, Surya and Kanhere, Salil S.},
 	title = {SoK: Practical Aspects of Releasing Differentially Private Graphs},
